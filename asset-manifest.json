@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/birthday-list/static/css/main.58a17046.css",
+    "main.js": "/birthday-list/static/js/main.049879f8.js",
+    "static/js/787.6609b868.chunk.js": "/birthday-list/static/js/787.6609b868.chunk.js",
+    "static/media/logo.svg": "/birthday-list/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/birthday-list/index.html",
+    "main.58a17046.css.map": "/birthday-list/static/css/main.58a17046.css.map",
+    "main.049879f8.js.map": "/birthday-list/static/js/main.049879f8.js.map",
+    "787.6609b868.chunk.js.map": "/birthday-list/static/js/787.6609b868.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a17046.css",
+    "static/js/main.049879f8.js"
+  ]
+}
